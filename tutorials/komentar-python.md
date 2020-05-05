@@ -12,7 +12,7 @@ Komentar biasa digunakan untuk membiarkan orang lain memahami apa yang dilakukan
 
 Untuk menggunakan komentar anda cukup menulis tanda pagar `#`, diikuti dengan komentar Anda.
 
-Dibawah ini adalah contoh penggunaan komentar pada Python
+Di bawah ini adalah contoh penggunaan komentar pada Python
 
 {% highlight python %}
 #Ini adalah komentar
@@ -42,7 +42,7 @@ print("Budi")
 print(123)
 {% endhighlight %}
 
-Saat anda menjalankan script diatas, Anda akan melihat output berupa `Hello World`, `Budi` dan `123`, karena tulisan/komentar yang ditulis tidak dieksekusi.
+Saat anda menjalankan script di atas, Anda akan melihat output berupa `Hello World`, `Budi` dan `123`, karena tulisan/komentar yang ditulis tidak dieksekusi.
 
 ---
 > [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/komentar-python.md)

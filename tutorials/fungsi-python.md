@@ -6,7 +6,7 @@ permalink: /tutorial/fungsi-python
 
 ---
 
-Fungsi adalah blok kode terorganisir dan dapat digunakan kembali yang digunakan untuk melakukan sebuah tindakan/action. Fungsi memberikan modularitas yang lebih baik untuk aplikasi Anda dan tingkat penggunaan kode yang tinggi.
+Fungsi adalah blok kode terorganisasi dan dapat digunakan kembali yang digunakan untuk melakukan sebuah tindakan/action. Fungsi memberikan modularitas yang lebih baik untuk aplikasi Anda dan tingkat penggunaan kode yang tinggi.
 
 ### Mendefinisikan Fungsi Python
 

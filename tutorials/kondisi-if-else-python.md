@@ -14,7 +14,7 @@ Pada python ada beberapa statement/kondisi diantaranya adalah `if`, `else` dan `
 
 Jika kondisi bernilai salah `False` maka statement/kondisi `if` tidak akan di-eksekusi.
 
-Dibawah ini adalah contoh penggunaan kondisi if pada Python
+Di bawah ini adalah contoh penggunaan kondisi if pada Python
 
 {% highlight python %}
 #Kondisi if adalah kondisi yang akan dieksekusi oleh program jika bernilai benar atau TRUE
@@ -30,7 +30,7 @@ if(nilai > 10):
     print("Selamat Anda Lulus")
 {% endhighlight %}
 
-Dari contoh diatas, jika program dijalankan maka akan mencetak string `"Selamat Anda Lulus Ujian"` sebanyak 1 kali yaitu pada if pertama. Di if kedua statement bernilai salah, jadi perintah `print("Selamat Anda Lulus")` tidak akan dieksekusi.
+Dari contoh di atas, jika program dijalankan maka akan mencetak string `"Selamat Anda Lulus Ujian"` sebanyak 1 kali yaitu pada if pertama. Di if kedua statement bernilai salah, jadi perintah `print("Selamat Anda Lulus")` tidak akan dieksekusi.
 
 
 ### Kondisi If Else
@@ -38,9 +38,9 @@ Pengambilan keputusan (kondisi if else) tidak hanya digunakan untuk menentukan t
 
 Pada python ada beberapa statement/kondisi diantaranya adalah if, else dan elif Kondisi if digunakan untuk mengeksekusi kode jika kondisi bernilai benar.
 
-Kondisi if else adalah kondisi dimana jika pernyataan benar `True` maka kode dalam if akan dieksekusi, tetapi jika bernilai salah `False` maka akan mengeksekusi kode di dalam else.
+Kondisi if else adalah kondisi di mana jika pernyataan benar `True` maka kode dalam if akan dieksekusi, tetapi jika bernilai salah `False` maka akan mengeksekusi kode di dalam else.
 
-Dibawah ini adalah contoh penggunaan kondisi if else pada Python
+Di bawah ini adalah contoh penggunaan kondisi if else pada Python
 
 {% highlight python %}
 #Kondisi if else adalah jika kondisi bernilai TRUE maka akan dieksekusi pada if, tetapi jika bernilai FALSE maka akan dieksekusi kode pada else
@@ -53,7 +53,7 @@ else:
     print("Maaf Anda Tidak Lulus")
 {% endhighlight %}
 
-Pada contoh diatas, jika program dijalankan maka akan mencetak string `"Maaf Anda Tidak Lulus"` karena pernyataan pada if bernilai `False`
+Pada contoh di atas, jika program dijalankan maka akan mencetak string `"Maaf Anda Tidak Lulus"` karena pernyataan pada if bernilai `False`
 
 ### Kondisi Elif
 
@@ -82,7 +82,7 @@ elif(hari_ini == "Minggu"):
     print("Saya akan libur")
 {% endhighlight %}
 
-Pada contoh diatas, jika program dijalankan maka akan mencetak string `"Saya akan libur"`.
+Pada contoh di atas, jika program dijalankan maka akan mencetak string `"Saya akan libur"`.
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
