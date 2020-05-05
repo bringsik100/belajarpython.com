@@ -36,7 +36,7 @@ PyMySQL adalah sebuah antarmuka untuk menghubungkan ke server database MySQL dar
 
 ### Cara Instal PyMySQL
 
-Sebelum melanjutka, pastikan Anda telah menginstal PyMySQL di komputer Anda. Cukup ketik berikut ini di skrip Python Anda dan jalankan.
+Sebelum melanjutkan, pastikan Anda telah menginstal PyMySQL di komputer Anda. Cukup ketik berikut ini di skrip Python Anda dan jalankan.
 
 `import pymysql.cursors`
 
