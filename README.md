@@ -17,7 +17,7 @@ Belajarpython adalah situs kolaboratif tutorial pemrograman Python bahasa Indone
 
 Belajarpython adalah situs terbuka (open source) yang dikembangkan oleh developer untuk developer. Semua orang baik dari kalangan :trollface: developer, :man: mahasiswa, :older_woman: pengajar, bahkan :baby: anak kecil yang baru mempelajari bahasa pemrograman python bisa ikut memberikan :heart: kontribusinya [disini](https://github.com/belajarpythoncom/belajarpython.com/blob/master/CONTRIBUTING.md)
 
-### [Code of Conduct](https://belajarpython.com/docs/codeofconduct)
+### [Code of Conduct](https://github.com/bringsik100/belajarpython.com/blob/master/CODE_OF_CONDUCT.md)
 
 Belajarpython telah mengadopsi Kode Etik yang kami harapkan akan diikuti oleh peserta proyek terbuka ini. Mohon baca [full text](https://github.com/belajarpythoncom/belajarpython.com/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
